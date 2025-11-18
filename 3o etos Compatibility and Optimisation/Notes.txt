@@ -1,0 +1,18 @@
+Notes 
+
+1. In order to use option 3 (Display the Map) in the menu the user has to open 
+   the whole folder with Visual Studio Code and in the terminal to install
+   (matplotlib) by using one of the following commands:
+   --- If one doesnt work try the next one ---
+  
+  pip install matplotlib
+
+  python -m pip install matplotlib
+
+  If your python command is python3:
+
+  python3 -m pip install matplotlib
+  
+  To check your python version:
+  
+  python --version
